@@ -1,0 +1,68 @@
+html {
+    background-color: #ebebeb
+    
+}
+
+header{
+    text-align:center;
+    } 
+
+.headers {
+    background-color: grey;
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 2px;
+    width: 1000px;
+  }
+
+
+  
+  .pantry {
+    background-color: hsl(118, 25%, 76%);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 2px;
+  }
+
+
+  .freezer {
+    background-color: hsl(118, 25%, 76%);
+    color: white;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 2px;
+  }
+
+
+
+
+th,td {
+    text-align: center;
+    padding: 5px;
+
+}
+
+img{ 
+    width: 400px;
+    display: block;
+    margin: auto;
+}
+
+
+.parent {
+    margin: 1px;
+    padding: 1px;
+    text-align: justify
+  }
+  .child {
+    display: inline-block;
+    padding: 1px;
+    width: 520px;
+    vertical-align: left;
+  }
+ 
+
+ 
+

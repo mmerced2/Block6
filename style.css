@@ -1,0 +1,29 @@
+html {
+    background-color: #ebebeb
+    
+}
+
+article {
+    margin-left: 25%;
+}
+
+img{ 
+    width:250px;
+    display: block;
+    margin: auto;
+}
+
+table {
+    width: 400px;
+    border: 2px dotted black
+}
+
+th,td {
+    text-align: center;
+    padding: 5px;
+
+}
+
+tr:nth-child(even){
+    background-color: grey
+}
